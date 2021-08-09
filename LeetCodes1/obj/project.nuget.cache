@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oqf/JTIRVZOm4+0l/j3CGtLUAw5ZW7HWAaQFC1x8/hC0f1JHQ6H0Jq3C10pU3PFMX7hV4rhMAy/cSU/Acegshw==",
+  "success": true,
+  "projectFilePath": "D:\\AhmedFiles\\ahmed samir\\DotNetProjects\\TrySomeThing\\LeetCodeProblems\\repo\\leetcodeProblems\\LeetCodes1\\LeetCodes1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}
